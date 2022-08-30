@@ -6,9 +6,9 @@ Friday Night Funkin' Week 7 - https://v6p9d9t4.ssl.hwcdn.net/html/3930671/index.
 
 Friday Night Funkin' HD - https://v6p9d9t4.ssl.hwcdn.net/html/4204513/bin/index.html
 
-FNF|D-Sides - https://v6p9d9t4.ssl.hwcdn.net/html/4527732/bin/index.html
-
 Friday Night Funkin' Mods Collection - https://v6p9d9t4.ssl.hwcdn.net/html/3977221/index.html
+
+FNF|D-Sides - https://v6p9d9t4.ssl.hwcdn.net/html/4527732/bin/index.html
 
 FNF|Smoke 'Em Out Struggle - https://v6p9d9t4.ssl.hwcdn.net/html/3917160/bin/index.html
 
