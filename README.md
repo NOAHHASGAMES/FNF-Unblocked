@@ -25,3 +25,18 @@ FNF|Vs Tiky - https://v6p9d9t4.ssl.hwcdn.net/html/4045947/Tricky%20phase%200/ind
 FNF|Revenge Whitty - https://v6p9d9t4.ssl.hwcdn.net/html/4160573/index.html
 
 FNF|Google site - https://sites.google.com/site/fnfunblocked/games?authuser=0
+
+# Other-Games
+
+Sonic The Hedgehog Compilation - https://archive.org/details/sg_Sonic_Compilation_1995_Sega_EU_en
+
+Sonic The Hedgehog - https://archive.org/details/sonicgenesis_bin
+
+Sonic The Hedgehog 2 - https://archive.org/details/sg_Sonic_the_Hedgehog_2_Rev_2_1992_Sega
+
+Sonic The Hedgehog 3 - https://archive.org/details/sonic_bin
+
+Sonic The Hedgehog Remix - https://archive.org/details/sonicremix_bin
+
+Sonic The Hedehog WTF LAME - https://archive.org/details/wtflame_bin
+
