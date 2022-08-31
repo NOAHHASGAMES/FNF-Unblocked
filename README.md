@@ -26,7 +26,7 @@ FNF|Revenge Whitty - https://v6p9d9t4.ssl.hwcdn.net/html/4160573/index.html
 
 FNF|Google site - https://sites.google.com/site/fnfunblocked/games?authuser=0
 
-# Other-Games
+# Sonic-The-Hedgehog
 
 Sonic The Hedgehog Compilation - https://archive.org/details/sg_Sonic_Compilation_1995_Sega_EU_en
 
