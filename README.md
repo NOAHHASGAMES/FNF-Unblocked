@@ -41,3 +41,5 @@ Sonic The Hedgehog Remix - https://archive.org/details/sonicremix_bin
 Sonic The Hedehog WTF LAME - https://archive.org/details/wtflame_bin
 
 Sonic XL - https://archive.org/details/sonic2xl_bin
+
+Mr. Needlemouse - https://archive.org/details/needlemouse_bin
